@@ -40,10 +40,10 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 > Apresente a divisão de papéis entre os membros do grupo em cada Sprint. O desejável é que, em cada Sprint, o aluno assuma papéis diferentes na equipe. Siga o modelo do exemplo abaixo:
 
 #### Sprint 1
-- _Scrum master_: AlunaX
-- Protótipos: AlunoY
-- Testes: AlunoK
-- Documentação: AlunaZ
+- _Scrum master_: Camila de Paula Rodrigues e Thiago Lacerda Santos Barbosa
+- Protótipos: Bianca Marques Teixeira
+- Testes: Walisson Ribeiro da Silva 
+- Documentação: Letícia Rodrigues Batista e Victoria Gonçalves da Silva
 
 #### Sprint 2
 - _Scrum master_: AlunaY
@@ -57,13 +57,15 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 #### Sprint 1
 
-Atualizado em: 21/04/2024
+Atualizado em: 25/02/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Introdução | 01/02/2024     | 07/02/2024 | ✔️    | 05/02/2024      |
-| AlunaZ        | Objetivos    | 03/02/2024     | 10/02/2024 | 📝    |                 |
+| Bianca M.        | Objetivos | 25/02/2025     | 25/02/2025 | ✔️    | 25/02/2025      |
+| Bianca M.      | Preencher README    | 25/02/2025    | 25/02/2025 | ✔️   | 25/02/2025  |
 | AlunoY        | Histórias de usuário  | 01/01/2024     | 07/01/2005 | ⌛     |                 |
+| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
+| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 
 #### Sprint 2
