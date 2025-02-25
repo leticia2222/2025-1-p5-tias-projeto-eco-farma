@@ -1,4 +1,4 @@
-# Projeto Eco Farm ♻️💚
+# Projeto Eco Farma ♻️💚
 
 `CURSO: Sistemas de Informação`
 
