@@ -27,10 +27,10 @@ Além disso, buscamos tornar o serviço de delivery das farmácias mais sustent�
 
 Os objetivos específicos incluem:
 
-> **Criar uma rede de farmácias parceiras** que atuem como pontos de coleta de blisters.
-> **Desenvolver uma plataforma digital** para conectar consumidores, farmácias e ciclistas entregadores.
-> **Incentivar a conscientização ambiental** sobre o descarte adequado dos resíduos.
-> **Reduzir a pegada de carbono** associada à entrega de medicamentos e produtos farmacêuticos.
+- **Criar uma rede de farmácias parceiras** que atuem como pontos de coleta de blisters.
+- **Desenvolver uma plataforma digital** para conectar consumidores, farmácias e ciclistas entregadores.
+- **Incentivar a conscientização ambiental** sobre o descarte adequado dos resíduos.
+- **Reduzir a pegada de carbono** associada à entrega de medicamentos e produtos farmacêuticos.
 
 ## Justificativa
 
