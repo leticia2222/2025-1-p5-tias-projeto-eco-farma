@@ -21,12 +21,16 @@ O grupo pode optar por fazer uso de ferramentas como Design Thinking, que permit
 
 ## Objetivos
 
-Aqui, você deve descrever os objetivos do trabalho, indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima.
+O projeto tem como principal objetivo incentivar a reciclagem tanto dos blisters de medicamentos quanto remédios vencidos por meio de um sistema de troca que oferece benefícios aos consumidores. Para isso, as farmácias que possuem o ponto de coleta podem ser cadastrados no site, e os usuários que descartarem corretamente esses materiais poderão receber descontos em suas compras em itens que não são medicamentos (produtos alimentícios, itens de higiene, etc.).
 
-Além disso, apresente alguns (pelo menos 3) objetivos específicos, dependendo de onde você pretende concentrar sua prática investigativa ou como deseja aprofundar seu trabalho.
- 
-> **Links úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Além disso, buscamos tornar o serviço de delivery das farmácias mais sustentável, substituindo os meios de transporte poluentes por ciclistas cadastrados em nossa plataforma. Dessa forma, pretendemos reduzir o impacto ambiental causado pelo descarte inadequado de resíduos e pela logística tradicional de entrega.
+
+Os objetivos específicos incluem:
+
+> **Criar uma rede de farmácias parceiras** que atuem como pontos de coleta de blisters.
+> **Desenvolver uma plataforma digital** para conectar consumidores, farmácias e ciclistas entregadores.
+> **Incentivar a conscientização ambiental** sobre o descarte adequado dos resíduos.
+> **Reduzir a pegada de carbono** associada à entrega de medicamentos e produtos farmacêuticos.
 
 ## Justificativa
 
