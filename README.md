@@ -1,25 +1,27 @@
-# Nome do projeto
+# Projeto Eco Farm ♻️💚
 
 `CURSO: Sistemas de Informação`
 
 `DISCIPLINA: Trabalho Interdisciplinar Aplicações para Sustentabilidade`
 
-`Xº semestre/ANO`
+`1º semestre/2025`
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+O projeto surgiu com o objetivo de melhorar o descarte de blisters, popularmente conhecidos como cartelas de alumínio que armazenam cápsulas de remédios. Para incentivar a reciclagem adequada desse material, criamos um sistema de troca: os consumidores podem descartar os blisters em farmácias cadastradas em nosso site e, em troca, recebem descontos nas compras.
+
+Além disso, promovemos uma entrega ecológica para as farmácias participantes, utilizando ciclistas cadastrados em nossa plataforma para realizar o delivery de forma sustentável. Dessa maneira, unimos reciclagem e mobilidade consciente para reduzir impactos ambientais e incentivar práticas mais sustentáveis.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Bianca Marques Teixeira
+* Camila de Paula Rodrigues
+* Letícia Rodrigues Batista
+* Thiago Lacerda Santos Barbosa
+* Victoria Gonçalves da Silva
+* Walisson Ribeiro da Silva
 
 ## Professor
 
-* Nome completo do(a) professor(a)
+* Amália Soares Vieira de Vasconcelos
 
 ## Instruções de utilização
 
