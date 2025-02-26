@@ -34,12 +34,7 @@ Os objetivos específicos incluem:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O descarte inadequado, especialmente de antibióticos, contribui para o aumento da resistência bacteriana, um problema que afeta diretamente a saúde humana e o meio ambiente. O projeto criado visa conscientizar a população sobre a importância do descarte correto de medicamentos, evitando a contaminação do solo, da água e dos alimentos. Além disso, a proposta do delivery ecológico se destaca por ser uma alternativa sustentável às entregas motorizadas, reduzindo a emissão de gases prejudiciais à camada de ozônio e ao aquecimento global. Essa opção, além de ser ambientalmente responsável, mantém a mesma eficiência logística e ainda apresenta um custo reduzido. Queremos ampliar o conhecimento sobre esses temas, que ainda são pouco discutidos, mas possuem um impacto significativo na natureza. Com o avanço da tecnologia e o alcance da internet, nosso site facilitará a disseminação dessas informações, promovendo uma conscientização mais ampla e acessível. 
 
 ## Público-alvo
 
