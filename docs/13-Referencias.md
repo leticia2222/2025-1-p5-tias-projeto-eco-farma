@@ -1,18 +1,20 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc.) utilizadas no desenvolvimento do trabalho.
+Ministério da Saúde (Brasil). Prevenindo juntos a resistência antimicrobiana: 18 a 24/11 Semana Mundial de Conscientização sobre Antimicrobianos. Disponível em: https://bvsms.saude.gov.br/prevenindo-juntos-a-resistencia-antimicrobiana-18-a-24-11-semana-mundial-de-conscientizacao-sobre-antimicrobianos/. Acesso em: 26 fev. 2025.
 
-Exemplo:
+Ministério da Saúde (Brasil). Síntese de evidências para políticas de saúde: tratamento medicamentoso. Brasília: Ministério da Saúde, 2018. Disponível em: https://bvsms.saude.gov.br/bvs/publicacoes/sintese_evidencias_politicas_tratamento_medicamentoso.pdf. Acesso em: 26 fev. 2025.
 
-- BENYON, David. **Interação humano-computador**. 2. ed. São Paulo: Pearson Prentice Hall, 2011.
+PILBOX Brasil. Como melhorar a adesão dos pacientes aos medicamentos com essa ferramenta simples. Disponível em: https://blog.pilboxbrasil.com.br/como-melhorar-a-adesao-dos-pacientes-aos-medicamentos-com-essa-ferramenta-simples/. Acesso em: 26 fev. 2025.
 
-- CORMEN, Thomas H et al. **Algoritmos:** teoria e prática. 4. ed. Rio de Janeiro: GEN LTC, 2024.
- 
-- ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019.
+Universidade Federal do Vale do São Francisco. Descarte de medicamentos vencidos: como e onde descartar corretamente. Disponível em: https://portais.univasf.edu.br/sustentabilidade/noticias-sustentaveis/descarte-de-medicamentos-vencidos-como-e-onde-descartar-corretamente. Acesso em: 26 fev. 2025.
 
-- RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial:** uma abordagem moderna. 4. ed. Rio de Janeiro, RJ: LTC, 2022.
+Governo Federal (Brasil). Do armazenamento ao descarte: saiba como guardar remédios ou jogar fora os que estão em desuso. Disponível em: https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/12/do-armazenamento-ao-descarte-saiba-como-guardar-remedios-ou-jogar-fora-os-que-estao-em-desuso. Acesso em: 26 fev. 2025.
 
-- SUTHERLAND, Jeffrey Victor; SUTHERLAND, J. J. **Scrum:** a arte de fazer o dobro do trabalho na metade do tempo. Rio de Janeiro, RJ: Sextante, 2019. 254 p.
+STACHEWSKI, Ana Laura. Eles criaram um serviço de entregas sustentável e movido a bicicletas. Revista Pequenas Empresas & Grandes Negócios, 10 abr. 2019. Disponível em: https://revistapegn.globo.com/Banco-de-ideias/E-commerce/noticia/2019/04/eles-criaram-um-servico-de-entregas-sustentavel-e-movido-bicicletas.html. Acesso em: 26 fev. 2025.
+
+Machine Motors. Como as bicicletas elétricas impulsionam o delivery express. Disponível em: https://machinemotors.com.br/blog/post/bicicletas-eletricas-delivery-express-meio-ambiente-entregadores?srsltid=AfmBOoqqzjP2I9Mp8qqs4Bm_pkWAC4i6b2acK9DIWitKE0FxfYqLTgCZ. Acesso em: 26 fev. 2025.
+
+ORGANIZAÇÃO PAN-AMERICANA DA SAÚDE (OPAS). Juntos para combater a resistência aos antimicrobianos. Disponível em: https://www.paho.org/pt/juntos-combater-resistencia-antimicrobianos. Acesso em: 26 fev. 2025.
 
 > **Links úteis**:
 > - [Padrão PUC Minas de normalização ABNT](http://portal.pucminas.br/biblioteca/documentos/GUIA-COMPLETO-ABNT-Elaborar-formatar-trabalho-cientificoNOVO.pdf)
