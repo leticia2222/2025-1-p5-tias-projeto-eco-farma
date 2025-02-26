@@ -63,7 +63,7 @@ Atualizado em: 25/02/2025
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
 | Bianca M.        | Objetivos | 25/02/2025     | 25/02/2025 | ✔️    | 25/02/2025      |
 | Bianca M.      | Preencher README    | 25/02/2025    | 25/02/2025 | ✔️   | 25/02/2025  |
-| AlunoY        | Histórias de usuário  | 01/01/2024     | 07/01/2005 | ⌛     |                 |
+| Bianca M.       | Justificativa  | 26/02/2025     | 26/02/2025 | ✔️    |  26/02/2025  |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
