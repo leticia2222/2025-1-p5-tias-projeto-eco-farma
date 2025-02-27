@@ -64,8 +64,8 @@ Atualizado em: 25/02/2025
 | Bianca M.        | Objetivos | 25/02/2025     | 25/02/2025 | ✔️    | 25/02/2025      |
 | Bianca M.      | Preencher README    | 25/02/2025    | 25/02/2025 | ✔️   | 25/02/2025  |
 | Bianca M.       | Justificativa  | 26/02/2025     | 26/02/2025 | ✔️    |  26/02/2025  |
-| Bianca M.        | Público Alvo  |    27/02/2025        | 28/02/2025  | 📝    |       |
-| Bianca M.        | Organizar o projeto  |    -        | 28/02/2025 | ❌    |       |
+| Bianca M.        | Público Alvo  |    27/02/2025        | 28/02/2025  | ✔️   | 27/02/2025      |
+| Bianca M.        | Organizar o projeto  |    27/02/2025       | 28/02/2025 | ❌    |       |
 | Bianca M.         | Personas 1  |    -        | 05/03/2025 | ❌    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
