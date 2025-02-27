@@ -38,13 +38,6 @@ O descarte inadequado, especialmente de antibióticos, contribui para o aumento 
 
 ## Público-alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Nosso público-alvo abrange pessoas de 20 a 65 anos, com um propósito amplo e inclusivo. O serviço é ideal para quem busca economia em produtos de higiene, cuidados com a pele, maquiagem e unhas, além de atender aqueles focados na saúde, oferecendo descontos em suplementos.  
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público-alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Também é voltado para quem faz uso contínuo de medicamentos, assim como familiares e cuidadores responsáveis pela compra e descarte seguro. Ao englobar um público diversificado, criamos uma demanda que auxilia as farmácias na conscientização sobre o descarte correto de resíduos, demonstrando que essa prática sustentável pode trazer benefícios para todos.
