@@ -66,7 +66,7 @@ Atualizado em: 25/02/2025
 | Bianca M.    | Justificativa  | 26/02/2025     | 26/02/2025 | ✔️    |  26/02/2025  |
 | Bianca M.     | Público Alvo  |    27/02/2025        | 28/02/2025  | ✔️   | 27/02/2025      |
 | Bianca M.  | Organizar o projeto  |    27/02/2025       | 28/02/2025 | ✔️   |   27/02/2025     |
-| Bianca M.   | Protótipo |    27/02/2025     | 05/03/2025 | 📝    |       |
+| Bianca M.   | Protótipo |    27/02/2025     | 05/03/2025 | ⌛    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
@@ -122,7 +122,7 @@ Exemplo: os artefatos do projeto são desenvolvidos a partir de diversas platafo
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | http://....                            |
 | Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de interface                | Figma                              | http://....                            |
+| Projeto de interface                | Figma                              | https://www.figma.com/design/Lpbb2Ynpk2wz6DiaEePzli/Untitled?node-id=0-1&t=47nTjxpuglSzl9sv-1|
 | Gerenciamento do projeto            | GitHub Projects                    | http://....                            |
 | Hospedagem                          | Vercel                             | http://....                            |
  
