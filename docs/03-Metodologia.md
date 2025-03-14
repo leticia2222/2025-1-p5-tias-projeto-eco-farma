@@ -67,10 +67,13 @@ Atualizado em: 12/03/2025
 | Bianca M.     | Público Alvo  |    27/02/2025        | 28/02/2025  | ✔️   | 27/02/2025      |
 | Bianca M.  | Organizar o projeto  |    27/02/2025       | 28/02/2025 | ✔️   |   27/02/2025     |
 | Bianca M.   | Protótipo |    27/02/2025     | 05/03/2025 | ✔️    |    12/03/2025 |
+| Victória G.        | Diagrama de caso de uso  |    06/03/2025        | 17/03/2025 | ✔️    |    14/03/2025   |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
+| Victória G.        | Diagrama de caso de uso  |    06/03/2025        | 17/03/2025 | ✔️    |    14/03/2025   |
+
 
 #### Sprint 2
 
