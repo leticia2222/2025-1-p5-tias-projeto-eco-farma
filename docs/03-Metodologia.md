@@ -72,7 +72,6 @@ Atualizado em: 12/03/2025
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
 | AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
-| Victória G.        | Diagrama de caso de uso  |    06/03/2025        | 17/03/2025 | ✔️    |    14/03/2025   |
 
 
 #### Sprint 2
