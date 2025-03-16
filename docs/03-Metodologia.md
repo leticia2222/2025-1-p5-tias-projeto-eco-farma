@@ -55,19 +55,19 @@ Atualizado em: 16/03/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| Bianca M.      | Objetivos | 25/02/2025     | 25/02/2025 | ✔️    | 25/02/2025      |
-| Bianca M.    | Preencher README    | 25/02/2025    | 25/02/2025 | ✔️   | 25/02/2025  |
-| Bianca M.    | Justificativa  | 26/02/2025     | 26/02/2025 | ✔️    |  26/02/2025  |
-| Bianca M.     | Público Alvo  |    27/02/2025        | 28/02/2025  | ✔️   | 27/02/2025      |
-| Bianca M.  | Organizar o projeto  |    27/02/2025       | 28/02/2025 | ✔️   |   27/02/2025     |
-| Bianca M.   | Protótipo |    27/02/2025     | 05/03/2025 | ✔️    |    12/03/2025 |
-| Victória G.        | Diagrama de caso de uso  |    06/03/2025        | 17/03/2025 | ✔️    |    14/03/2025   |
-| Camila de Paula       | Preenchimento de todas as Personas |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
-| Camila de Paula       | Preenchimento de Requisitos Funcionais e Não Funcionais |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
-| Letícia Rodrigues     | Introdução |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
-| Letícia Rodrigues     | Problema |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
-| Letícia Rodrigues     | 8 perguntas CANVA |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
-| Letícia Rodrigues     | Slides |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
+| Bianca M.     | Objetivos        | 25/02/2025     | 25/02/2025 | ✔️    | 25/02/2025 |
+| Bianca M.     | Preencher README | 25/02/2025     | 25/02/2025 | ✔️    | 25/02/2025 |
+| Bianca M.     | Justificativa    | 26/02/2025     | 26/02/2025 | ✔️    | 26/02/2025 |
+| Bianca M.     | Público Alvo     | 27/02/2025     | 28/02/2025 | ✔️    | 27/02/2025 |
+| Bianca M.     | Organizar o projeto  | 27/02/2025 | 28/02/2025 | ✔️    | 27/02/2025 |
+| Bianca M.     | Protótipo        | 27/02/2025     | 05/03/2025 | ✔️    | 12/03/2025 |
+| Victória G.   | Diagrama de caso de uso  | 06/03/2025        | 17/03/2025 | ✔️    |    14/03/2025   |
+| Camila de Paula | Preenchimento de todas as Personas |   16/03/2025     |  16/03/2025  | ✔️    |     16/03/2025    |
+| Camila de Paula | Preenchimento de Requisitos Funcionais e Não Funcionais |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
+| Letícia R.     | Introdução      | 16/03/2025     |  16/03/2025  | ✔️   | 16/03/2025 |
+| Letícia R.     | Problema        | 16/03/2025     |  16/03/2025  | ✔️   | 16/03/2025 |
+| Letícia R.     | 8 perguntas CANVA | 16/03/2025   |  16/03/2025  | ✔️   | 16/03/2025 |
+| Letícia R.     | Slides          | 16/03/2025     |  16/03/2025  | ✔️   | 16/03/2025 |
 
 #### Sprint 2
 
