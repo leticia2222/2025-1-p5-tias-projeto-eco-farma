@@ -1,6 +1,8 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto. Visando contextualizar melhor o projeto e destacar sua importância para a disciplina, que é **extensionista**, acrescente todas as informações relevantes que julgar necessárias.
+O descarte irregular de medicamentos e de suas embalagens gera riscos ambientais e de saúde, agravando problemas como a contaminação do solo e da água e o aumento da resistência bacteriana. Apesar disso, muitas pessoas ainda não têm acesso a informações ou alternativas acessíveis para o descarte correto desses resíduos.
+Com o objetivo de enfrentar esse problema, este projeto propõe uma solução sustentável e de impacto social, unindo farmácias, consumidores e ciclistas em uma plataforma digital. A iniciativa cria pontos de coleta em farmácias parceiras e recompensa o público que realiza o descarte adequado com descontos em produtos não medicamentosos, como itens de higiene, alimentação e cuidados pessoais. Outro diferencial é a substituição de entregas motorizadas por ciclistas, reduzindo a emissão de poluentes e tornando a logística mais ecológica. O projeto visa fomentar a conscientização ambiental e incentivar práticas de consumo e descarte mais responsáveis. A proposta busca beneficiar tanto o meio ambiente quanto a economia local, atingindo um público variado entre 20 e 65 anos, que inclui consumidores comuns, cuidadores e pessoas que fazem uso contínuo de medicamentos.
+Por se tratar de um projeto com caráter extensionista, a iniciativa ultrapassa o espaço acadêmico e busca gerar um impacto positivo direto na sociedade, ao mesmo tempo em que promove debates sobre sustentabilidade e inovação no setor farmacêutico.
 
 ## Cliente 
 Nesta seção, devem ser apresentadas informações essenciais sobre o cliente (parceiro) para garantir um entendimento mais preciso do projeto como uma iniciativa extensionista.  
@@ -21,31 +23,23 @@ O grupo pode optar por fazer uso de ferramentas como Design Thinking, que permit
 
 ## Objetivos
 
-Aqui, você deve descrever os objetivos do trabalho, indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima.
+O projeto tem como principal objetivo incentivar a reciclagem tanto dos blisters de medicamentos quanto remédios vencidos por meio de um sistema de troca que oferece benefícios aos consumidores. Para isso, as farmácias que possuem o ponto de coleta podem ser cadastrados no site, e os usuários que descartarem corretamente esses materiais poderão receber descontos em suas compras em itens que não são medicamentos (produtos alimentícios, itens de higiene, etc.).
 
-Além disso, apresente alguns (pelo menos 3) objetivos específicos, dependendo de onde você pretende concentrar sua prática investigativa ou como deseja aprofundar seu trabalho.
- 
-> **Links úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Além disso, buscamos tornar o serviço de delivery das farmácias mais sustentável, substituindo os meios de transporte poluentes por ciclistas cadastrados em nossa plataforma. Dessa forma, pretendemos reduzir o impacto ambiental causado pelo descarte inadequado de resíduos e pela logística tradicional de entrega.
+
+Os objetivos específicos incluem:
+
+- **Criar uma rede de farmácias parceiras** que atuem como pontos de coleta de blisters.
+- **Desenvolver uma plataforma digital** para conectar consumidores, farmácias e ciclistas entregadores.
+- **Incentivar a conscientização ambiental** sobre o descarte adequado dos resíduos.
+- **Reduzir a pegada de carbono** associada à entrega de medicamentos e produtos farmacêuticos.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O descarte inadequado, especialmente de antibióticos, contribui para o aumento da resistência bacteriana, um problema que afeta diretamente a saúde humana e o meio ambiente. O projeto criado visa conscientizar a população sobre a importância do descarte correto de medicamentos, evitando a contaminação do solo, da água e dos alimentos. Além disso, a proposta do delivery ecológico se destaca por ser uma alternativa sustentável às entregas motorizadas, reduzindo a emissão de gases prejudiciais à camada de ozônio e ao aquecimento global. Essa opção, além de ser ambientalmente responsável, mantém a mesma eficiência logística e ainda apresenta um custo reduzido. Queremos ampliar o conhecimento sobre esses temas, que ainda são pouco discutidos, mas possuem um impacto significativo na natureza. Com o avanço da tecnologia e o alcance da internet, nosso site facilitará a disseminação dessas informações, promovendo uma conscientização mais ampla e acessível. 
 
 ## Público-alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Nosso público-alvo abrange pessoas de 20 a 65 anos, com um propósito amplo e inclusivo. O serviço é ideal para quem busca economia em produtos de higiene, cuidados com a pele, maquiagem e unhas, além de atender aqueles focados na saúde, oferecendo descontos em suplementos.  
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público-alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Também é voltado para quem faz uso contínuo de medicamentos, assim como familiares e cuidadores responsáveis pela compra e descarte seguro. Ao englobar um público diversificado, criamos uma demanda que auxilia as farmácias na conscientização sobre o descarte correto de resíduos, demonstrando que essa prática sustentável pode trazer benefícios para todos.
