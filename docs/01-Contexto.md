@@ -1,7 +1,9 @@
 # Introdução
 
 O descarte irregular de medicamentos e de suas embalagens gera riscos ambientais e de saúde, agravando problemas como a contaminação do solo e da água e o aumento da resistência bacteriana. Apesar disso, muitas pessoas ainda não têm acesso a informações ou alternativas acessíveis para o descarte correto desses resíduos.
+
 Com o objetivo de enfrentar esse problema, este projeto propõe uma solução sustentável e de impacto social, unindo farmácias, consumidores e ciclistas em uma plataforma digital. A iniciativa cria pontos de coleta em farmácias parceiras e recompensa o público que realiza o descarte adequado com descontos em produtos não medicamentosos, como itens de higiene, alimentação e cuidados pessoais. Outro diferencial é a substituição de entregas motorizadas por ciclistas, reduzindo a emissão de poluentes e tornando a logística mais ecológica. O projeto visa fomentar a conscientização ambiental e incentivar práticas de consumo e descarte mais responsáveis. A proposta busca beneficiar tanto o meio ambiente quanto a economia local, atingindo um público variado entre 20 e 65 anos, que inclui consumidores comuns, cuidadores e pessoas que fazem uso contínuo de medicamentos.
+
 Por se tratar de um projeto com caráter extensionista, a iniciativa ultrapassa o espaço acadêmico e busca gerar um impacto positivo direto na sociedade, ao mesmo tempo em que promove debates sobre sustentabilidade e inovação no setor farmacêutico.
 
 ## Cliente 
