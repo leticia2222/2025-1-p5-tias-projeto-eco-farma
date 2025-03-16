@@ -8,7 +8,16 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-teste
+*Ana Clara, 32 anos*
+Profissão: Analista de Marketing 
+Localização: Belo Horizonte - MG 
+Estado civil: Casada 
+
+Perfil: Consumidora frequente de medicamentos para a família, preocupa-se com o meio ambiente, mas não sabe como descartar blisters corretamente 
+Motivação: Quer contribuir para a reciclagem e aproveitar descontos em produtos de higiene ou alimentícios 
+Frustrações: 
+- Falta de pontos de coleta próximos de casa 
+- Desconhecimento sobre como blisters impactam o solo 
 
 ## Histórias de usuários
 
