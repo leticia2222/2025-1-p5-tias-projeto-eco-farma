@@ -97,6 +97,27 @@ As US abaixo foram elaboradas com base nas personas definidas e nos casos de uso
 |Ana Clara (Consumidora)  | Converter pontos de descarte em descontos | Ter um cadastro no sistema e utiliza-lo |
 |Ana Clara (Consumidora)  | Acompanhar o histórico de descartes | Medir e acompanhar meu impacto ambiental |
 
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Carlos Mendes (Farmacêutico)   | Cadastrar minha farmácia como ponto de coleta | Atrair mais clientes e gerenciar resíduos |
+|Carlos Mendes (Farmacêutico)   | Visualizar pontos de descarte | Entregar blisters no local correto |
+|Carlos Mendes (Farmacêutico)   | Converter pontos de descarte em descontos | Ter um cadastro no sistema e utiliza-lo |
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|João Ribeiro (Ciclista)   | Registrar-me na plataforma com e-mail e CPF | Ter um cadastro no sistema e utiliza-lo |
+|João Ribeiro (Ciclista)   | Visualizar pontos de descarte | Entregar blisters no local correto |
+|João Ribeiro (Ciclista)   | Converter pontos de descarte em descontos | Ter um cadastro no sistema e utiliza-lo |
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Mariana Costa (Cooperativa)   | Registrar-me na plataforma com e-mail e CPF | Ter um cadastro no sistema e utiliza-lo |
+|Mariana Costa (Cooperativa)   | Visualizar pontos de descarte | Entregar blisters no local correto |
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Todos os usuários | Registrar-me na plataforma com e-mail e CPF | Ter um cadastro no sistema e utiliza-lo |
+|Todos os usuários | Visualizar pontos de descarte | Entregar blisters no local correto |
 
 ## Requisitos
 
