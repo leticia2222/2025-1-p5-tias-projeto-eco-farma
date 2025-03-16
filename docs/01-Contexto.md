@@ -20,11 +20,6 @@ Diante disso, este projeto propõe uma solução inovadora que atua em duas fren
 
 O foco do projeto está em ambientes urbanos, onde o consumo de medicamentos é elevado e a produção de resíduos farmacêuticos é constante. A proposta busca transformar a relação da comunidade com o meio ambiente e com a própria saúde, promovendo uma cadeia sustentável que gera benefícios tanto para a população quanto para o setor farmacêutico.
 
-> **Links úteis**:
-> - [Objetivos, problema de pesquisa e justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz certezas, suposições e dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 O projeto tem como principal objetivo incentivar a reciclagem tanto dos blisters de medicamentos quanto remédios vencidos por meio de um sistema de troca que oferece benefícios aos consumidores. Para isso, as farmácias que possuem o ponto de coleta podem ser cadastrados no site, e os usuários que descartarem corretamente esses materiais poderão receber descontos em suas compras em itens que não são medicamentos (produtos alimentícios, itens de higiene, etc.).
