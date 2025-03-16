@@ -37,7 +37,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ###  Divisão de papéis
 
-> Apresente a divisão de papéis entre os membros do grupo em cada Sprint. O desejável é que, em cada Sprint, o aluno assuma papéis diferentes na equipe. Siga o modelo do exemplo abaixo:
+> Apresente a divisão de papéis entre os membros do grupo em cada Sprint. O desejável é que, em cada Sprint, o aluno assuma papéis diferentes na equipe:
 
 #### Sprint 1
 - _Scrum master_: Camila de Paula Rodrigues e Thiago Lacerda Santos Barbosa
@@ -45,19 +45,13 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 - Testes: Walisson Ribeiro da Silva 
 - Documentação: Letícia Rodrigues Batista e Victoria Gonçalves da Silva
 
-#### Sprint 2
-- _Scrum master_: AlunaY
-- Desenvolvedor _front-end_: AlunoX
-- Desenvolvedor _back-end_: AlunoK
-- Testes: AlunaZ
-
 ###  Quadro de tarefas
 
-> Apresente a divisão de tarefas entre os membros do grupo e o acompanhamento da execução, conforme o exemplo abaixo.
+> Apresente a divisão de tarefas entre os membros do grupo e o acompanhamento da execução:
 
 #### Sprint 1
 
-Atualizado em: 12/03/2025
+Atualizado em: 16/03/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
@@ -68,10 +62,8 @@ Atualizado em: 12/03/2025
 | Bianca M.  | Organizar o projeto  |    27/02/2025       | 28/02/2025 | ✔️   |   27/02/2025     |
 | Bianca M.   | Protótipo |    27/02/2025     | 05/03/2025 | ✔️    |    12/03/2025 |
 | Victória G.        | Diagrama de caso de uso  |    06/03/2025        | 17/03/2025 | ✔️    |    14/03/2025   |
-| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
-| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
-| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
-| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
+| Camila de Paula       | Preenchimento de todas as Personas |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
+| Camila de Paula       | Preenchimento de Requisitos Funcionais e Não Funcionais |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
 
 
 #### Sprint 2
