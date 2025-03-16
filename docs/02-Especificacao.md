@@ -149,7 +149,12 @@ O projeto está restrito aos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |001| O projeto deverá ser entregue até o final do semestre |
-|002| O custo total do projeto não deve exceder o orçamento definido       |
+|002| O custo total do projeto não deve exceder o orçamento definido |
+|003| Dependência de parcerias com farmácias para validar pontos de coleta |
+|004| Utilização obrigatória de tecnologias de baixo custo (ex: APIs gratuitas) |
+|005| Conformidade com a LGPD para tratamento de dados dos usuários |
+|006| Baixa infraestrutura de reciclagem de blisters em regiões não metropolitanas |
+|007| Disponibilidade limitada de ciclistas em certas regiões |
 
 ## Diagrama de casos de uso
 
