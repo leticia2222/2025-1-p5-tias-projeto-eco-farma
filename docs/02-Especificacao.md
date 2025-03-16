@@ -136,31 +136,17 @@ Os requisitos foram priorizados usando a técnica MoSCoW (Must have, Should have
 
 ## Restrições
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-O projeto está restrito aos itens apresentados na tabela a seguir.
+O projeto está restrito aos itens apresentados na tabela a seguir:
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |001| O projeto deverá ser entregue até o final do semestre |
-|002| O custo total do projeto não deve exceder o orçamento definido |
-|003| Dependência de parcerias com farmácias para validar pontos de coleta |
-|004| Utilização obrigatória de tecnologias de baixo custo (ex: APIs gratuitas) |
-|005| Conformidade com a LGPD para tratamento de dados dos usuários |
-|006| Baixa infraestrutura de reciclagem de blisters em regiões não metropolitanas |
-|007| Disponibilidade limitada de ciclistas em certas regiões |
+|002| O projeto não envolve gastos financeiros |
+|003| Dependência de parceria com farmácia para validar ponto de coleta |
+|004| Utilização obrigatória de tecnologias gratuitas |
+|005| Conformidade com a LGPD |
 
 ## Diagrama de casos de uso
 
 <img src="https://github.com/ICEI-PUC-Minas-PBE-ADS-SI/2025-1-p5-tias-projeto-eco-farma/blob/main/docs/images/Diagrma%20caso%20de%20uso%20TI.jpeg?raw=true" alt="Diagrama de caso de uso">
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos. Ele utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. O diagrama contempla a fronteira do sistema e o detalhamento dos requisitos funcionais, com a indicação dos atores, casos de uso e seus relacionamentos.
-
-As referências abaixo irão auxiliá-lo na geração do artefato “diagrama de casos de uso”.
-
-> **Links úteis**:
-> - [Criando casos de uso](https://www.ibm.com/docs/pt-br/engineering-lifecycle-management-suite/design-rhapsody/10.0?topic=cases-creating-use)
-> - [Como criar diagrama de caso de uso: tutorial passo a passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
