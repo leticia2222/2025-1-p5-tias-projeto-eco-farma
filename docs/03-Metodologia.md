@@ -37,34 +37,42 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ###  Divisão de papéis
 
-> Apresente a divisão de papéis entre os membros do grupo em cada Sprint. O desejável é que, em cada Sprint, o aluno assuma papéis diferentes na equipe. Siga o modelo do exemplo abaixo:
+> Apresente a divisão de papéis entre os membros do grupo em cada Sprint. O desejável é que, em cada Sprint, o aluno assuma papéis diferentes na equipe:
 
 #### Sprint 1
-- _Scrum master_: AlunaX
-- Protótipos: AlunoY
-- Testes: AlunoK
-- Documentação: AlunaZ
-
-#### Sprint 2
-- _Scrum master_: AlunaY
-- Desenvolvedor _front-end_: AlunoX
-- Desenvolvedor _back-end_: AlunoK
-- Testes: AlunaZ
+- _Scrum master_: Camila de Paula Rodrigues e Thiago Lacerda Santos Barbosa
+- Protótipos: Bianca Marques Teixeira
+- Testes: Walisson Ribeiro da Silva 
+- Documentação: Letícia Rodrigues Batista e Victoria Gonçalves da Silva
 
 ###  Quadro de tarefas
 
-> Apresente a divisão de tarefas entre os membros do grupo e o acompanhamento da execução, conforme o exemplo abaixo.
+> Apresente a divisão de tarefas entre os membros do grupo e o acompanhamento da execução:
 
 #### Sprint 1
 
-Atualizado em: 21/04/2024
+Atualizado em: 16/03/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Introdução | 01/02/2024     | 07/02/2024 | ✔️    | 05/02/2024      |
-| AlunaZ        | Objetivos    | 03/02/2024     | 10/02/2024 | 📝    |                 |
-| AlunoY        | Histórias de usuário  | 01/01/2024     | 07/01/2005 | ⌛     |                 |
-| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
+| Bianca M.      | Objetivos | 25/02/2025     | 25/02/2025 | ✔️    | 25/02/2025      |
+| Bianca M.    | Preencher README    | 25/02/2025    | 25/02/2025 | ✔️   | 25/02/2025  |
+| Bianca M.    | Justificativa  | 26/02/2025     | 26/02/2025 | ✔️    |  26/02/2025  |
+| Bianca M.     | Público Alvo  |    27/02/2025        | 28/02/2025  | ✔️   | 27/02/2025      |
+| Bianca M.  | Organizar o projeto  |    27/02/2025       | 28/02/2025 | ✔️   |   27/02/2025     |
+| Bianca M.   | Protótipo |    27/02/2025     | 05/03/2025 | ✔️    |    12/03/2025 |
+| Victória G.        | Diagrama de caso de uso  |    06/03/2025        | 17/03/2025 | ✔️    |    14/03/2025   |
+| Victória G.        | Dcumentação do diagrama de caso de uso  |    06/03/2025        | 17/03/2025 | ✔️    |    14/03/2025   |
+| Camila de Paula       | Preenchimento de todas as Personas |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
+| Camila de Paula       | Preenchimento de Requisitos Funcionais e Não Funcionais |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
+| Camila de Paula       | Preenchimento das duas últimas referências |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
+| Thiago Lacerda      | Preenchimento das histórias de usuário |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
+| Thiago Lacerda      | Preenchimento das restrições |   16/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
+| Letícia R.      | Problema |   15/03/2025    |  15/03/2025  | ✔️    |     15/03/2025    |
+| Letícia R.      | Introdução |   15/03/2025    |  15/03/2025  | ✔️    |     15/03/2025    |
+| Letícia R.      | Respostas 8 perguntas |   15/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
+| Letícia R.      | Slides |   15/03/2025    |  16/03/2025  | ✔️    |     16/03/2025    |
+
 
 #### Sprint 2
 
@@ -116,7 +124,7 @@ Exemplo: os artefatos do projeto são desenvolvidos a partir de diversas platafo
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | http://....                            |
 | Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de interface                | Figma                              | http://....                            |
+| Projeto de interface                | Figma                              | https://www.figma.com/design/Lpbb2Ynpk2wz6DiaEePzli/Untitled?node-id=0-1&t=47nTjxpuglSzl9sv-1|
 | Gerenciamento do projeto            | GitHub Projects                    | http://....                            |
 | Hospedagem                          | Vercel                             | http://....                            |
  
